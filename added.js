@@ -1,7 +1,7 @@
 import React from "react";
 
 function added() {
-  return <div>added</div>;
+  return <div>added a change</div>;
 }
 
 export default added;
